@@ -227,7 +227,7 @@ Partial Class Form1
         Me.Controls.Add(Me.KareemPictureBox)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Project2/Dex"
         CType(Me.KobePictureBox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.MagicPictureBox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.MJPictureBox, System.ComponentModel.ISupportInitialize).EndInit()
