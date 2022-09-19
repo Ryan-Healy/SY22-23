@@ -1,0 +1,13 @@
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\bin\Debug\Normal Calculator.exe.config
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\bin\Debug\Normal Calculator.exe
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\bin\Debug\Normal Calculator.pdb
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\bin\Debug\Normal Calculator.xml
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal Calculator.vbproj.AssemblyReference.cache
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal_Calculator.Form1.resources
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal_Calculator.Resources.resources
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal Calculator.vbproj.GenerateResource.cache
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal Calculator.exe
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal Calculator.xml
+C:\Users\rphea713\Documents\SY22-23\VB\Normal Calculator\Normal Calculator\obj\Debug\Normal Calculator.pdb

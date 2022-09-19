@@ -1,0 +1,13 @@
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\bin\Debug\3rd project.exe.config
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\bin\Debug\3rd project.exe
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\bin\Debug\3rd project.pdb
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\bin\Debug\3rd project.xml
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\3rd project.vbproj.AssemblyReference.cache
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\3rd project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\_3rd_project.Form1.resources
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\_3rd_project.Resources.resources
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\3rd project.vbproj.GenerateResource.cache
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\3rd project.vbproj.CoreCompileInputs.cache
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\3rd project.exe
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\3rd project.xml
+C:\Users\rphea713\Documents\SY22-23\VB\3rd project\3rd project\obj\Debug\3rd project.pdb

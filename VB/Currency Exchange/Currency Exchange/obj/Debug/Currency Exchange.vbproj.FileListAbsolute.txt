@@ -1,0 +1,13 @@
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\bin\Debug\Currency Exchange.exe.config
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\bin\Debug\Currency Exchange.exe
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\bin\Debug\Currency Exchange.pdb
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\bin\Debug\Currency Exchange.xml
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency Exchange.vbproj.AssemblyReference.cache
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency Exchange.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency_Exchange.Form1.resources
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency_Exchange.Resources.resources
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency Exchange.vbproj.GenerateResource.cache
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency Exchange.vbproj.CoreCompileInputs.cache
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency Exchange.exe
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency Exchange.xml
+C:\Users\rphea713\Documents\SY22-23\VB\Currency Exchange\Currency Exchange\obj\Debug\Currency Exchange.pdb
